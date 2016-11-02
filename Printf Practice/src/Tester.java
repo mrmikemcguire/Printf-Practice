@@ -9,7 +9,7 @@ public class Tester
 			String s3 = "Christopher";
 			String s4 = "Joe";
 			
-			ArrayList names = new ArrayList();
+			ArrayList<String> names = new ArrayList<String>();
 			names.add(s1);
 			names.add(s2);
 			names.add(s3);
