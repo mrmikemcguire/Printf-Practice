@@ -21,8 +21,8 @@ public class Tester
 			
 			System.out.printf("%-12s %-12s %-12s %-12s", 
 					s1, s2, s3, s4);
-			System.out.println();
-			System.out.println();
+			//makes it one line
+			System.out.println("\n");
 		
 			for (Object s : names)
 				{
