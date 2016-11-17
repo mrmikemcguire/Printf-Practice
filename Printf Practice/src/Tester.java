@@ -22,7 +22,7 @@ public class Tester
 			System.out.printf("%-12s %-12s %-12s %-12s", 
 					s1, s2, s3, s4);
 			//makes it one line
-			System.out.println("\n");
+			System.out.println("\n Let's break the computer. Too bad computers have multiple threads, otherwise we could crash the system.");
 		
 			for (Object s : names)
 				{
