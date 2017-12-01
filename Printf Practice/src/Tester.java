@@ -1,5 +1,5 @@
-import java.util.ArrayList;
 
+import java.util.ArrayList;
 public class Tester
 	{
 		public static void main(String[] args)
@@ -8,8 +8,8 @@ public class Tester
 			String s2 = "Phillip";
 			String s3 = "Christopher";
 			String s4 = "Joe";
+			String s5 = "Fred";  //added by Mr. McGuire @ 2:27
 			//test test
-			//Chase is the bomb diggity
 			ArrayList<String> names = new ArrayList<String>();
 			names.add(s1);
 			names.add(s2);
