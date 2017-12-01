@@ -8,6 +8,7 @@ public class Tester
 			String s2 = "Phillip";
 			String s3 = "Christopher";
 			String s4 = "Joe";
+			String s5 = "Fred";  //added by Mr. McGuire @ 2:27
 			//test test
 			ArrayList<String> names = new ArrayList<String>();
 			names.add(s1);
