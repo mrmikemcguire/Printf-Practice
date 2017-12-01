@@ -9,6 +9,7 @@ public class Tester
 			String s3 = "Christopher";
 			String s4 = "Joe";
 			//test test
+			//Chase is the bomb diggity
 			ArrayList<String> names = new ArrayList<String>();
 			names.add(s1);
 			names.add(s2);
