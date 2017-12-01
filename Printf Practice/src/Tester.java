@@ -1,3 +1,4 @@
+
 import java.util.ArrayList;
 
 public class Tester
@@ -9,6 +10,7 @@ public class Tester
 			String s3 = "Christopher";
 			String s4 = "Joe";
 			String s5 = "Fred";  //added by Mr. McGuire @ 2:27
+      String s6 = "Liam";
 			//test test
 			ArrayList<String> names = new ArrayList<String>();
 			names.add(s1);
