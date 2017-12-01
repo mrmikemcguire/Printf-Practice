@@ -1,5 +1,7 @@
 
 import java.util.ArrayList;
+//Chase_is_the_Best_at_Coding._All_Hail_Chase!!!
+
 public class Tester
 	{
 		public static void main(String[] args)
@@ -9,6 +11,8 @@ public class Tester
 			String s3 = "Christopher";
 			String s4 = "Joe";
 			String s5 = "Fred";  //added by Mr. McGuire @ 2:27
+      String s6 = "Liam";
+
 			//test test
 			ArrayList<String> names = new ArrayList<String>();
 			names.add(s1);
