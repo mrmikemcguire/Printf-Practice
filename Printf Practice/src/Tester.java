@@ -12,7 +12,6 @@ public class Tester
 			String s5 = "Fred";  //added by Mr. McGuire @ 2:27
 			String s6 = "Liam";
 			String s7 = "Mr. McGuire";
-			String s8 = "Baba";
 
 			//test test
 			ArrayList<String> names = new ArrayList<String>();
